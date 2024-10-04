@@ -91,5 +91,6 @@ rp.head()
 ![Screenshot 2024-10-04 093709](https://github.com/user-attachments/assets/0d4d2c4b-2f01-48de-9ebf-53b66e115055)
 
 **RESULT**
+
 Thus, the Implementation of the Recommendation System for the given dataset is completed successfully.
 
